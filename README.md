@@ -49,7 +49,7 @@ Re:Career採用(新卒扱い)で入社可能
 
 #### 開発環境
 
-##### 広告/サービス/ゲーム/DX
+##### 物流/DX
 - 開発言語：Go/Python/Ruby
 - ドルウェア：MySQL/PostgreSQL/Redis
 - インフラ：GCP/AWS/Kubernetes/Docker
