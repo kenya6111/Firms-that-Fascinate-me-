@@ -1,6 +1,5 @@
 # Firms-that-Fascinate-me
 
-# Company-of-Interest
 
 ## 🌱概要
 興味のある企業
