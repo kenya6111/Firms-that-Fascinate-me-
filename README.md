@@ -31,6 +31,7 @@ Re:Career採用(新卒扱い)で入社可能
 - インフラ:AWS, GCP, MLOps, SRE (Site Reliability Engineering)
 - データベース/データウェアハウス:Snowflake, BigQuery, Redshift
 
+---
 ### [株式会社サイバーエージェント](https://cyberagent.snar.jp/jobboard/detail.aspx?id=8iSptegYLsDRrwoQPcNomw)
 
 Re:Career採用(新卒扱い)で入社可能
